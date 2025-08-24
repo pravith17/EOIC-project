@@ -84,7 +84,7 @@
             justify-content: center;
             align-items: center;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-               background-image: url('/Team img/prasoon.jpg');
+               background-image: url('Team img/prasoon.jpg');
                background-size: cover;
                background-position: center;
            
@@ -101,7 +101,7 @@
             justify-content: center;
             align-items: center;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-               background-image: url('/Team img/pravith.jpg');
+               background-image: url('Team img/pravith.jpg');
                background-size: cover;
                background-position: center;
            
@@ -118,7 +118,7 @@
             justify-content: center;
             align-items: center;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-               background-image: url('/Team img/Vrishabh.jpeg');
+               background-image: url('Team img/Vrishabh.jpeg');
                background-size: cover;
                background-position: center;
            
@@ -135,7 +135,7 @@
             justify-content: center;
             align-items: center;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-               background-image: url('/Team img/sweek.jpg');
+               background-image: url('Team img/sweek.jpg');
                background-size: cover;
                background-position: center;
            
@@ -152,7 +152,7 @@
             justify-content: center;
             align-items: center;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-               background-image: url('/Team img/sudhan.jpeg');
+               background-image: url('Team img/sudhan.jpeg');
                background-size: cover;
                background-position: center;
            
@@ -169,7 +169,7 @@
             justify-content: center;
             align-items: center;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-               background-image: url('/Team img/pramath.jpeg');
+               background-image: url('Team img/pramath.jpeg');
                background-size: cover;
                background-position: center;
            
@@ -186,7 +186,7 @@
             justify-content: center;
             align-items: center;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-               background-image: url('/Team img/ananya.jpg');
+               background-image: url('Team img/ananya.jpg');
                background-size: cover;
                background-position: center;
            
@@ -208,5 +208,6 @@
                background-position: center; */
            
         }
+
 
 
