@@ -1,4 +1,4 @@
-body {
+body{
             background-color: #4a1d1f; /* Deep maroon background */
             color: #fff8e1; /* Creamy text */
             font-family: 'Cormorant Garamond', serif;
@@ -70,3 +70,4 @@ body {
             opacity: 1;
             transform: translateY(0);
         }
+
